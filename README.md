@@ -186,5 +186,11 @@ número de estrellas.
 objetivo es ayudar a practicar las tablas de multiplicar de forma
 autónoma y entretenida.
 
+## 🚀 Demo
+
+Puedes probar la aplicación aquí:
+
+👉 [Multiplica Aventuras - Demo](https://elmenda.github.io/multiplica.aventura.io/)
+
 > **Aprender + jugar + superar retos = multiplicar puede ser divertido.
 > 🚀✨**
